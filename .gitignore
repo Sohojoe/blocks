@@ -1,0 +1,81 @@
+/BlockWorldSimulator/[Ll]ibrary/
+/BlockWorldSimulator/[Tt]emp/
+/BlockWorldSimulator/[Oo]bj/
+/BlockWorldSimulator/[Bb]uild/
+/BlockWorldSimulator/[Bb]uilds/
+/BlockWorldSimulator/[Pp]ackages/
+/BlockWorldSimulator/[Uu]nity[Pp]ackage[Mm]anager/
+/BlockWorldSimulator/Assets/AssetStoreTools*
+/BlockWorldSimulator/Assets/Plugins*
+/BlockWorldSimulator/Assets/Gizmos*
+/BlockWorldSimulator/Assets/Demonstrations*
+
+# Tensorflow Model Info
+/models
+/summaries
+
+# Training environments
+/envs
+
+# Environemnt logfile
+*BlockWorldSimulator.log
+
+# Visual Studio 2015 cache directory
+/BlockWorldSimulator/.vs/
+
+/BlockWorldSimulator.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Unity3D Generated File On Crash Reports
+/BlockWorldSimulator/sysinfo.txt
+
+
+
+# Tensorflow Sharp Files
+/BlockWorldSimulator/Assets/ML-Agents/Plugins/Android*
+/BlockWorldSimulator/Assets/ML-Agents/Plugins/iOS*
+/BlockWorldSimulator/Assets/ML-Agents/Plugins/Computer*
+/BlockWorldSimulator/Assets/ML-Agents/Plugins/System.Numerics*
+/BlockWorldSimulator/Assets/ML-Agents/Plugins/System.ValueTuple*
+
+# Generated doc folders
+/docs/html
+
+# Mac hidden files
+*.DS_Store
+*/.ipynb_checkpoints
+*/.idea
+*.pyc
+*.idea/misc.xml
+*.idea/modules.xml
+*.iml
+*.cache
+*/build/
+*/dist/
+*.egg-info*
+*.eggs*
+*.gitignore.swp
+
+# VSCode hidden files
+*.vscode/
+
+.DS_Store
+.ipynb_checkpoints
+
+# Ignore PyPi build files.
+dist/
+build/
+log.txt
